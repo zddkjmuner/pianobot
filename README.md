@@ -1,12 +1,11 @@
-# Playing Piano with a Robotic Hand
+# Playing Piano with Robotic Hands
 
 Generate a synchronized 45-second performance of Elgar's *Salut d'Amour*: one
 KUKA iiwa + Allegro hand plays the chord part, a second robot plays the melody,
 and both views are rendered side by side with a stereo Steinway piano mix.
 
 This repository is a Python package managed by
-[`uv`](https://docs.astral.sh/uv/). The original notebook workflow has been
-replaced by a reproducible command-line pipeline.
+[`uv`](https://docs.astral.sh/uv/). 
 
 ## Output
 
