@@ -1,0 +1,13 @@
+{
+  "low_html": "/Users/zhengdingding/playing-piano-with-a-robotic-hand/build/salute_chords_smooth.html",
+  "high_html": "/Users/zhengdingding/playing-piano-with-a-robotic-hand/build/salute_melody_smooth.html",
+  "audio_wav": "/Users/zhengdingding/playing-piano-with-a-robotic-hand/build/salute_damour_complete_45s.wav",
+  "video_mp4": "/Users/zhengdingding/playing-piano-with-a-robotic-hand/build/salute_damour_two_robots_45s.mp4",
+  "low_events": 53,
+  "high_events": 40,
+  "duration_seconds": 45.0,
+  "chord_score_end": 38.090447761194035,
+  "melody_score_end": 37.850447761194026,
+  "chord_note_count": 103.0,
+  "melody_note_count": 46.0
+}
